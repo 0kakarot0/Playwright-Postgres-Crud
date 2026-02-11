@@ -24,7 +24,7 @@ npm install
 ### 2) Configure environment
 Create a `.env` file in the project root (copy from `.env.example`):
 
-DATABASE_URL=postgresql://localhost:5432/mydatabase
+DATABASE_URL=:yourpassword@localhost:1234/yourdatabase
 
 ### 3) Create database (example)
 createdb mydatabase
