@@ -9,3 +9,10 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+/.idea
+node_modules
+test-results
+playwright-report
+.env
+dist
+.DS_Store
