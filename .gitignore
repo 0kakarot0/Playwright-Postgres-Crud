@@ -18,3 +18,5 @@ dist
 .DS_Store
 allure-results
 allure-report
+
+package-lock.json
